@@ -1,21 +1,20 @@
-# Uppgift 'Hobby'
+# Assignment 'Count'
 
-I denna uppgift har jag utforskat Git-funktioner som commits, branches, rebase och merge.
-Jag har hållt det enkelt med html/css & javascript med en räkneknapp som utgångspunkt.
+In this assignment I've explored Git-functions as commits, branches, rebase and merge.
+I have kept it simple with html/css and javascript with a counter.
 
 ![bild](/pics/counter%20btn.png)
 
 Commits :
-Använt tydliga meddelanden och emojis för förståelse.
+Used clear messages and emojis for understanding.
 
 Branches :
-Skapat och namngett grenar för enkel identifiering.
+Created and named branches for easy recognition.
 
 Rebase och merge:
-Använt git rebase och git merge för smidiga integreringar.
+Used git rebase and git merge for smooth integrations.
 
 ![bild](/pics/git%20log%20graph.png)
 
-Länk till uppgiften : https://github.com/Marcusey/uppgiftHobby.git
-Installera beroenden med npm install.
-Starta utvecklingsmiljön med npm run dev.
+Link to the assignment : https://github.com/Marcusey/github-assignment-count
+Install dependencies with npm install and then type npm run dev
